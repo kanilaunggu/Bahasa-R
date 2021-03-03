@@ -1,4 +1,4 @@
-#variable
+#variable Materi 01
 nama_hewan <- 'Kucing 1'
 nama_Hewan = 'Kucing 2'
 Nama.Hewan = 'Kucing 3'
